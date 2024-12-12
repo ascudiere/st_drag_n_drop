@@ -1,0 +1,6 @@
+node_modules/
+frontend/build/
+*.log
+dist/
+*.egg-info/
+__pycache__/
