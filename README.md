@@ -11,12 +11,15 @@ pip install streamlit-custom-component
 ## Important!
 
 ```
-This should be used with session state to hold the current state of the kanban, more information you can find in the sample code example.py
+This should be used with session state to hold the current state of the kanban, 
+more information you can find in the sample code example.py
 ```
 
 ## Usage instructions
 
 ```python
+
+#The component should receive a data structure JSON like this sample below:
 
     data = {
         "columns": [
@@ -38,4 +41,6 @@ This should be used with session state to hold the current state of the kanban, 
             {"id": "done", "title": "Done", "cards": []},
         ]
     }
+
+For more example on how to call it please look into example.py file
 ```

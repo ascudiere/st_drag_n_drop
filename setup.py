@@ -10,7 +10,7 @@ setuptools.setup(
     version="1.0.0",
     author="Andre Scudiere",
     author_email="andrescudiere@gmail.com",
-    description="This component allows you to use a kanban to assignate stuff",
+    description="This streamlit component uses react beautiful dnd to provide you a kanban structure where you can create dinamically the kanban columns and cards with also dynamic fields",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="",

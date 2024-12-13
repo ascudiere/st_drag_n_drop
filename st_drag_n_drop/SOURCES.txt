@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+my_component/__init__.py
+my_component/example.py
+st_drag_n_drop.egg-info/PKG-INFO
+st_drag_n_drop.egg-info/SOURCES.txt
+st_drag_n_drop.egg-info/dependency_links.txt
+st_drag_n_drop.egg-info/requires.txt
+st_drag_n_drop.egg-info/top_level.txt
